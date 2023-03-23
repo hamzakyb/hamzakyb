@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hamza
-- 👀 I am interested in mobile application development. 
-- 🌱 I'm currently learning java 
+- 👀 I am interested in web development. 
+- 🌱 I'm currently learning Java and PHP
 - 📫 You can reach me at hamzakybsi@gmail.com.  
 
 <!---
