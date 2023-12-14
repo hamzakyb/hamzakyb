@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hamza
 - 👀 I am interested in web development. 
-- 🌱 I'm currently learning php-laravel
+- 🌱 I'm currently learning js-react.
 - 📫 You can reach me at hamzakybsi@gmail.com.  
 
 <!---
