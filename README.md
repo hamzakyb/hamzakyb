@@ -1,10 +1,4 @@
 - 👋 Hi, I’m Hamza
-- 👀 I am interested in web development. 
-- 🌱 I'm currently learning js-react.
-- 📫 You can reach me at hamzakybsi@gmail.com.  
-
-<!---
-hamzakyb/hamzakyb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+-- 👀 I am interested in web development and AI engineer. 
+--- I am proficient in JavaScript (React and Next.js) and I continue to improve myself.
+---- 📫 You can reach me at hamzakybsi@gmail.com.  
