@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Hamza
 -- 👀 Web development and artificial intelligence are subjects that interest me and I am considering advancing in these fields.
---- I am proficient in JavaScript (React and Next.js) and I continue to improve myself.
+--- I am proficient in JavaScript (React,React Native and Next.js) and I continue to improve myself.
 ---- 📫 You can reach me at hamzakybsi@gmail.com.  
